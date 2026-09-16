@@ -1,0 +1,21 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Eredivisie API key",
+        "data": { "api_key": "football-data.org API key" }
+      },
+      "team": {
+        "title": "Choose your club",
+        "data": { "team_id": "Club" }
+      }
+    },
+    "error": {
+      "invalid_auth": "football-data.org rejected the API key",
+      "cannot_connect": "Could not reach football-data.org"
+    },
+    "abort": {
+      "already_configured": "This club is already configured"
+    }
+  }
+}

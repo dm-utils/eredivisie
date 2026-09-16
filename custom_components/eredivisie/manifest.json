@@ -1,0 +1,11 @@
+{
+  "domain": "eredivisie",
+  "name": "Eredivisie",
+  "codeowners": ["@ST33F"],
+  "config_flow": true,
+  "documentation": "https://github.com/dm-utils/eredivisie",
+  "issue_tracker": "https://github.com/dm-utils/eredivisie/issues",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "version": "0.1.0"
+}
